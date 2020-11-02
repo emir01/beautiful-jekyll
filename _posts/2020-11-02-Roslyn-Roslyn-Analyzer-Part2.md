@@ -760,3 +760,5 @@ In the next part of the series we take our "Extension" a step further by seeing
 how we can now register code that would "listen" and action our reported
 diagnostics by continuing to user the Roslyn API to specifically address
 `MultipleMethodCallDiagnosticAnalyzer` diagnostics.
+
+The full Analyzer file can be found [here!](https://gist.github.com/emir01/9858246f84964fd5bde923fc334fe4fe)
