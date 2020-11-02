@@ -14,6 +14,18 @@ I recently started reading up on the subject of the [.NET Compiler Platform and 
 (aka **Roslyn**) and all the things you could do with it in terms of
 code quality, analyzers and code fixers.
 
+---
+
+**Update (02-Nov-2020)**:
+
+This is now a part of an actual series of posts which can be found here:
+
+- [Introduction](https://blog.emirosmanoski.mk/2020-06-11-Roslyn-Syntax-Analyzer-Multiple-Method-Calls/)
+- [Analyzer](https://blog.emirosmanoski.mk/2020-11-02-Roslyn-Roslyn-Analyzer-Part2/)
+- Code Fix Provider -Work in Progress :construction:
+
+---
+
 First of all there there is a lot of materials on Roslyn out there from the
 official Microsoft Docs to collections of blogs, Github repositories and open
 source projects, so this article wont go into details beyond trying to give some
