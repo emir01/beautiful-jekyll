@@ -778,3 +778,6 @@ Finally, for a more in-depth set of learning resources for Roslyn I would recomm
 looking at the following series:
 
 - [Learn Roslyn Now](https://joshvarty.com/learn-roslyn-now/)
+
+---
+Until next time! :wave:
