@@ -7,7 +7,7 @@ comments: true
 image: /images/2020-11-16-Roslyn-Syntax-Analyzer-Part-3/00_logo.png
 cover-img: /images/2020-11-16-Roslyn-Syntax-Analyzer-Part-3/000_header.jpg
 share-img: /images/2020-11-16-Roslyn-Syntax-Analyzer-Part-3/00_logo.png
-meta-description: An introduction to a basic Analyzer for the Multiple Method call Invocation
+meta-description: Overview of a simple Roslyn Fix Provider.
 ---
 
 Welcome to the final part of our Roslyn Adventure where we will cover the
