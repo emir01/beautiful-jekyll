@@ -22,7 +22,7 @@ This is now a part of an actual series of posts which can be found here:
 
 - [Introduction](https://blog.emirosmanoski.mk/2020-06-11-Roslyn-Syntax-Analyzer-Multiple-Method-Calls/)
 - [Analyzer](https://blog.emirosmanoski.mk/2020-11-02-Roslyn-Roslyn-Analyzer-Part2/)
-- Code Fix Provider -Work in Progress :construction:
+- [Fix Provider](https://blog.emirosmanoski.mk/2020-11-16-Roslyn-Roslyn-Analyzer-Part3/)
 
 ---
 
