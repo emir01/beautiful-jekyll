@@ -25,7 +25,7 @@ For full context, the following links (will) point to all the articles:
 
 - [Introduction](https://blog.emirosmanoski.mk/2020-06-11-Roslyn-Syntax-Analyzer-Multiple-Method-Calls/)
 - [Analyzer](https://blog.emirosmanoski.mk/2020-11-02-Roslyn-Roslyn-Analyzer-Part2/)
-- Code Fix Provider -Work in Progress :construction:
+- [Fix Provider](https://blog.emirosmanoski.mk/2020-11-16-Roslyn-Roslyn-Analyzer-Part3/)
 
 {: .box-note}
 This post starts looking at the basic out of the box Analyzer that is already setup when we create a new project out of the `Analyzer with
