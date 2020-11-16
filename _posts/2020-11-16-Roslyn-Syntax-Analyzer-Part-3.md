@@ -37,7 +37,7 @@ with Code Fix Provider` Template.
   - [Variable Identifier Summary](#variable-identifier-summary)
   - [Replacing Invocations with Variable Identifier](#replacing-invocations-with-variable-identifier)
 - [In Action](#in-action)
-- [Final Notes](#final-notes)
+- [Final Code Sample And Wrap Up](#final-code-sample-and-wrap-up)
 
 ## Template Default setup
 
@@ -751,7 +751,7 @@ class Program
 }
 ```
 
-## Final Notes
+## Final Code Sample And Wrap Up
 
 The full version of the Fix Provider can be found at the following link:
 
