@@ -16,7 +16,7 @@ previous two parts:
 
 - [Introduction](https://blog.emirosmanoski.mk/2020-06-11-Roslyn-Syntax-Analyzer-Multiple-Method-Calls/)
 - [Analyzer](https://blog.emirosmanoski.mk/2020-11-02-Roslyn-Roslyn-Analyzer-Part2/)
-- [Fix Provider](https://blog.emirosmanoski.mk/2020-11-16-Roslyn-Roslyn-Analyzer-Part3/)
+- [Fix Provider](https://blog.emirosmanoski.mk/2020-11-16-Roslyn-Syntax-Analyzer-Part-3/)
 
 We will be implementing a fix provider that is going to modify our code by
 replacing the multiple calls of a method with a variable which will store the
