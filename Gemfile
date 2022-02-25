@@ -3,5 +3,6 @@
 source "https://rubygems.org"
 gem 'tzinfo-data'
 gem 'jemoji'
+gem "kramdown-parser-gfm"
 gemspec
 
