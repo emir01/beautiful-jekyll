@@ -5,9 +5,9 @@ title: Exploring .NET 6.0 Identity
 author: emir_osmanoski
 comments: true
 published: true
-image: /images/2022-03-07-ASP-NET-Identity/01_ListLogo.png
+image: /images/2022-03-07-ASP-NET-Identity/01_ListLogoNew.png
 cover-img: /images/2022-03-07-ASP-NET-Identity/00_Dotnet6Logo.png
-share-img: /images/2022-03-07-ASP-NET-Identity/01_ListLogo.png
+share-img: /images/2022-03-07-ASP-NET-Identity/01_ListLogoNew.png
 meta-description: Exploring .NET 6 Identity Options
 ---
 
