@@ -1,9 +1,10 @@
 ---
 layout: post
-tags: [.net, identity, .net 6, .net identity, security, authentication]
-title: Exploring ASP.NET 6.0 Identity 
+tags: [.net, identity, .net6, security, authentication, tokens, jwt]
+title: Exploring .NET 6.0 Identity
 author: emir_osmanoski
 comments: true
+published: true
 image: /images/2022-03-07-ASP-NET-Identity/01_ListLogo.png
 cover-img: /images/2022-03-07-ASP-NET-Identity/00_Dotnet6Logo.png
 share-img: /images/2022-03-07-ASP-NET-Identity/01_ListLogo.png
