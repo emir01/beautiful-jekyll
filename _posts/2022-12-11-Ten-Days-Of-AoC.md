@@ -30,10 +30,10 @@ engineer.
 - [Contents](#contents)
 - [The Puzzles](#the-puzzles)
 - [So, why Participate?](#so-why-participate)
-  - [Fun? :partying\_face:](#fun-partying_face)
+  - [Fun? :confetti\_ball:](#fun-confetti_ball)
   - [Exploring Language Features :fire:](#exploring-language-features-fire)
   - [Exploring Communities :house\_with\_garden:](#exploring-communities-house_with_garden)
-  - [Flow Mode :brain:](#flow-mode-brain)
+  - [Flow Mode :thought\_balloon:](#flow-mode-thought_balloon)
   - [Creativity and Problem Solving :bulb:](#creativity-and-problem-solving-bulb)
 - [Final Words :checkered\_flag:](#final-words-checkered_flag)
 
@@ -83,7 +83,7 @@ illustrating what the code you can write could attempt to do to get to the solut
 
 Let's look at some aspects which might make AoC something worth giving a shot! 
 
-## Fun? :partying_face:
+## Fun? :confetti_ball:
 
 Sure, it might not be everyone's cup of tea, but for me these puzzles have been
 like little escape rooms where you have to figure your way out. This is
@@ -248,7 +248,7 @@ solutions :slightly_smiling_face:
 
 -  [https://www.youtube.com/@swekster](https://www.youtube.com/@swekster)
 
-## Flow Mode :brain:
+## Flow Mode :thought_balloon:
 
 So far, the puzzles have been clear enough, fun enough and just challenging
 enough to very often get me into [Flow Mode.](https://en.wikipedia.org/wiki/Flow_(psychology))
